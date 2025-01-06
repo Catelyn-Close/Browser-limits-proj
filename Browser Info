@@ -1,7 +1,35 @@
-***Browser Limitations and Compatability Issues***
+**Browser Limitations and Compatability Issues**
 
 This refer to problems that arise when a web page or application doesn't work consistently across different web browsers, operating systems, or devices. 
 - These issues can result from differences in how browsers interpret and render HTML, CSS, JavaScript, and other web technologies.
+
+    ***Rendering Differences***
+
+    Each browser (Chrome, Firefox, Safari, Edge, etc.) has its own rendering engine (e.g., Blink for Chrome, Gecko for Firefox, WebKit for Safari). 
+    - This can lead to inconsistencies in how web pages are displayed (fonts, layout, animations, etc.).
+
+    ***Outdated Browser Versions***
+
+    Older versions of browsers, such as Internet Explorer or early versions of Safari, do not support newer web standards and features. 
+    - This can create issues when trying to implement modern web design practices.
+
+        OR
+
+        ***Newer Tags***
+            - Some browsers don't recognize newer HTML5 tags like <article>, <section>, and <nav>, and may not render them properly. Additionally, certain HTML5 attributes like autofocus or placeholder may not work in older browsers.
+
+**Potential Causes**
+ - If a browser can't support an IoT (Internet of Things) dashboard or app, it can lead to incorrect or incomplete loading, failure, or bad performance.
+
+ - Slow internet speeds and large files can exacerbate browser problems by contributing to performance issues, slower loading times, and a less responsive user experience.
+
+ 
+ **The takeaway to browser problems**
+ - Newer browser versions improve website performance with optimization, security, compatability, and a smoother user experience
+ - Older versions or outdated browsers present security risks, lower optimization, and less chance to be compatible with new websites. 
+
+    
+    
 
 
 
@@ -23,4 +51,3 @@ Questions
 Imagine you created a website, and it works perfectly on one browser but not on another. What steps could you take to figure out what went wrong?
 Why might a website look or behave differently when viewed on an older version of a browser compared to a newer version?
 How can a web developer ensure their website works well on as many devices and browsers as possible?
-
