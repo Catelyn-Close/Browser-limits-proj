@@ -48,6 +48,14 @@ This refer to problems that arise when a web page or application doesn't work co
 
 
 Questions 
-Imagine you created a website, and it works perfectly on one browser but not on another. What steps could you take to figure out what went wrong?
-Why might a website look or behave differently when viewed on an older version of a browser compared to a newer version?
-How can a web developer ensure their website works well on as many devices and browsers as possible?
+How can differences in browser rendering engines affect how a website is displayed?
+
+Answer: Different browsers use different engines to display websites, which can cause inconsistencies in fonts, layouts, and animations.
+
+What issues might occur when using an older version of a browser for modern web design features?
+
+Answer: Older browser versions may not support newer web features or tags, leading to problems with how a website looks or works.
+
+How can slow internet speeds or large files impact a website’s performance across different browsers?
+
+Answer: Slow internet and large files can cause websites to load slowly or perform poorly, especially on browsers that aren’t optimized for newer technologies.
