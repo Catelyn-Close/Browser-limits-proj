@@ -18,6 +18,9 @@ This refer to problems that arise when a web page or application doesn't work co
         ***Newer Tags***
             - Some browsers don't recognize newer HTML5 tags like <article>, <section>, and <nav>, and may not render them properly. Additionally, certain HTML5 attributes like autofocus or placeholder may not work in older browsers.
 
+**Real World Examples**
+    Older or unsecure browsers can give up your private information. Other than this, they code the browser is made of usually runs without frequent updates and may be built inefficiently. This can make the browser slower and your computer work harder when there are better options. Think of a page loading slowly or failing to load completely. Modern websites have the HTTPS with the lock symbol in the corner, letting you know you are secure though older browsers are less reliable with security.
+
 **Potential Causes**
  - If a browser can't support an IoT (Internet of Things) dashboard or app, it can lead to incorrect or incomplete loading, failure, or bad performance.
 
